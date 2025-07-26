@@ -204,3 +204,5 @@ lockin_priority_gas = 25000000000
 
 Competition is high, and you may need to tweak these settings. Test each setting for at least 2 hours before changing again.
 
+
+### Made with💚 by [Zarv](https://x.com/zarvxbt) 
