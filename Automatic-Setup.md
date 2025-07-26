@@ -87,7 +87,7 @@ To run the Boundless node, you need to rent a suitable server. Follow these step
 2. Click the terminal button on your device and copy the command starting with **SSH**.
 
 3. Paste it into your Terminal or PowerShell to access your server.
-
+![456638486-dc14064a-63f0-43a9-b31e-81a2ca2a4bbd](https://github.com/user-attachments/assets/6e1d6649-c4a0-4e2e-99e5-2a8285307fc1)
 ---
 
 ## Installation:
