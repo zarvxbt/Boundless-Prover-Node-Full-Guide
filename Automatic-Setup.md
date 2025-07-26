@@ -54,7 +54,7 @@ To run the Boundless node, you need to rent a suitable server. Follow these step
 1. Log into the Vast panel and click the **Templates** tab in the upper left.
 
 2. From the list, select the **Ubuntu 22.04 VM** template.
-![456634644-452408df-df90-481d-8999-abdec53de3e7](https://github.com/user-attachments/assets/25523cf4-4c98-4a3c-b740-6b411b00320c)
+
 
 4. From the top menu, select a GPU: **RTX 3090** or **RTX 4090** is recommended.
 
