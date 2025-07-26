@@ -1,7 +1,4 @@
 # Boundless Prover Node Installation Guide (Base Mainnet)
-![GtP8PwbWoAA-KTL](https://github.com/user-attachments/assets/89f63f2d-b776-4e8d-a1f5-c53a2ebe25de)
-
-
 This guide explains step-by-step how to set up a Boundless Prover node on the Base Mainnet network and start generating proofs by catching orders.
 
 | Component       | Minimum Requirement        |
