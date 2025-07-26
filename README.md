@@ -212,6 +212,7 @@ Wait a moment until setup completes.
 
 ```bash
 docker compose logs -f broker
+```
 
 ![Ekran görüntüsü 2025-06-18 133700](https://github.com/user-attachments/assets/c4758f65-b931-4f81-91d0-2701f5233662)
 
