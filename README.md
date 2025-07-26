@@ -273,5 +273,5 @@ You’ll see detailed stats about your node.
 
 ### Made with💚 by [Zarv](https://x.com/zarvxbt) 
 
-Special thanks to [Ufuk]🩵
-(https://x.com/ufukdegen) 
+
+#  special thanks to 🩵 [Ufuk](https://x.com/ufukdegen)
