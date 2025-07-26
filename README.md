@@ -110,10 +110,9 @@ apt install -y libssl-dev libleveldb-dev libclang-dev libgbm1
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/UfukNode/Boundless-ZK-Mining/refs/heads/main/gerekli_bagimliliklar.sh)
-![image](https://github.com/user-attachments/assets/688d06e5-4a8b-4a01-87f5-08a3949ef098)
+---
 
 After installation, restart the terminal and continue.
-
 ---
 
 ### 4. Clone the Repo:
@@ -123,27 +122,28 @@ git clone https://github.com/boundless-xyz/boundless
 cd boundless
 git checkout release-0.10
 bash ./scripts/setup.sh
-
+---
 ![image](https://github.com/user-attachments/assets/e55f5a37-e7b5-480d-b9d7-961d888f5bcd)
 
----
 
 ### 5. Set Up the Base .env File:
 
 ```bash
-nano .env.base
-```
+nano.env.base
+---
 
 If you’re using testnets like Sepolia instead of Base Mainnet:
 
 - For Base Sepolia:
 ```bash
 nano .env.base-sepolia
-```
+---
+
 
 - For Ethereum Sepolia:
 ```bash
 nano .env.eth-sepolia
+---
 
 ![Ekran görüntüsü 2025-06-18 175359](https://github.com/user-attachments/assets/9d406b08-c975-4c8f-9012-721d7e07cdfd)
 Set content like this:
