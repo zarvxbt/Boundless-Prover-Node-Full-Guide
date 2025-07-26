@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻Boundless Prover Node Installation Guide (Base Mainnet))💻
+# 💻 Boundless Prover Node Installation Guide (Base Mainnet) 💻
 
 </div>
 This guide explains step-by-step how to set up a Boundless Prover node on the Base Mainnet network and start generating proofs by catching orders.
