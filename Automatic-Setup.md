@@ -70,12 +70,13 @@ To run the Boundless node, you need to rent a suitable server. Follow these step
    > It may work on lower systems, but performance will decrease.
 
 6. Set storage between **150-200 GB SSD**. (NVMe recommended)
-
-7. From the top-left sorting menu, select **Price (inc)**.
+ 
+![456635435-29c2df12-340e-4aa9-adf9-d684398945a8](https://github.com/user-attachments/assets/edba704c-dca1-4cef-9ff7-cb62c98acdff)
+8. From the top-left sorting menu, select **Price (inc)**.
 
    > This way, the best price/performance options will be listed at the top.
 
-8. Select a suitable device and click the **Rent** button.
+9. Select a suitable device and click the **Rent** button.
 
 ---
 
