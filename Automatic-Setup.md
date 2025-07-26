@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Boundless Script Automatic Installation Guide)💻
+# 💻 Boundless Script Automatic Installation Guide 💻
 
 </div>
 
