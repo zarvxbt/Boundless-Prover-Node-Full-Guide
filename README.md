@@ -256,3 +256,5 @@ You’ll see detailed stats about your node.
 | **Peak MHz Reached** | Max processing power reached at a moment. Shows hardware strength.           |
 | **Fulfillment Rate** | Success rate of completing tasks. 95%+ is ideal.                             |
 
+
+### Made with💚 by [Zarv](https://x.com/zarvxbt) 
