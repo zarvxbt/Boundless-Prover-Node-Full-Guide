@@ -40,13 +40,14 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-6. Go to [https://cloud.vast.ai/?ref_id=222215](https://cloud.vast.ai/) → Click on the **Keys** tab from the left menu.
+6. Go to [https://cloud.vast.ai/](https://cloud.vast.ai/222215) → Click on the **Keys** tab from the left menu.
 
 7. Click `New` in the upper right, paste the copied line, and save.
 
 ---
 
 ## Choosing a Template and Renting a Server on Vast.ai
+![456629831-d6da34b4-a93b-4db7-a755-5eeb644545ec](https://github.com/user-attachments/assets/9fa93642-343f-43d0-bd62-33e01303fbdd)
 
 To run the Boundless node, you need to rent a suitable server. Follow these steps:
 
