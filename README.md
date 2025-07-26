@@ -176,7 +176,7 @@ source .env.eth-sepolia
 source ~/.bashrc
 boundless account deposit-stake 5
 
-![image](https://github.com/user-attachments/assets/0863d49a-08f7-4bcf-befa-a1609e390817)
+![image](https://github.com/user-attachments/assets/1f197201-6c24-42dc-bcb1-193097372fdd)
 
 ---
 
@@ -188,7 +188,7 @@ boundless account deposit 0.0001
 
 To check your stake balance:
 
-![image](https://github.com/user-attachments/assets/1f197201-6c24-42dc-bcb1-193097372fdd)
+![Ekran görüntüsü 2025-06-18 131640](https://github.com/user-attachments/assets/86d08b4a-1672-4521-ad29-70068ee1bf19)
 
 ```bash
 boundless account stake-balance
@@ -204,7 +204,7 @@ just broker
 
 Wait a moment until setup completes.
 
-![Ekran görüntüsü 2025-06-18 131640](https://github.com/user-attachments/assets/86d08b4a-1672-4521-ad29-70068ee1bf19)
+![Ekran görüntüsü 2025-06-18 133700](https://github.com/user-attachments/assets/c4758f65-b931-4f81-91d0-2701f5233662)
 
 ---
 
