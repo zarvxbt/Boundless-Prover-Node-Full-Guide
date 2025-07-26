@@ -106,7 +106,7 @@ sudo ./boundless.sh
 ```
 
 ⌛️ The installation process will take approximately 45-50 minutes. Please be patient.
-
+![456566176-e55f5a37-e7b5-480d-b9d7-961d888f5bcd](https://github.com/user-attachments/assets/6607eac0-27ef-4f68-92ad-bc52c1f1c129)
 ---
 
 ### Installation Process and Input Information
