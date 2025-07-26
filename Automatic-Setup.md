@@ -40,7 +40,7 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-6. Go to [https://cloud.vast.ai/?ref_id=222215](https://cloud.vast.ai/?ref_id=222215) → Click on the **Keys** tab from the left menu.
+6. Go to [https://cloud.vast.ai/?ref_id=222215](https://cloud.vast.ai/) → Click on the **Keys** tab from the left menu.
 
 7. Click `New` in the upper right, paste the copied line, and save.
 
