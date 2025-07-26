@@ -166,7 +166,7 @@ source .env.base-sepolia #adjust the ending depending on the network you're usin
 ```bash
 just broker
 ```
-
+![photo_2025-06-28_17-29-02](https://github.com/user-attachments/assets/79f73a6e-49e9-40f0-b9a4-ad35c4850907)
 ---
 
 # Broker.toml Configuration Guide for RTX 4090
