@@ -118,6 +118,7 @@ docker compose logs -f broker
 ```
 
 Example of a successful log output.
+![456639519-c4758f65-b931-4f81-91d0-2701f5233662](https://github.com/user-attachments/assets/e592ac03-1f56-44a5-882f-b6d43a83e38d)
 
 ---
 
