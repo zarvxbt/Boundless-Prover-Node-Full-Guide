@@ -1,4 +1,6 @@
 # Boundless Prover Node Installation Guide (Base Mainnet)
+![GtP8PwbWoAA-KTL](https://github.com/user-attachments/assets/89f63f2d-b776-4e8d-a1f5-c53a2ebe25de)
+
 
 This guide explains step-by-step how to set up a Boundless Prover node on the Base Mainnet network and start generating proofs by catching orders.
 
@@ -63,15 +65,17 @@ To run the Boundless node, you need to rent a suitable server. Follow these step
 
 1. Go to the Vast panel and click the **“Templates”** tab on the top left.
 2. Select the **“Ubuntu 22.04 VM”** template.
+![Adsız tasarım](https://github.com/user-attachments/assets/452408df-df90-481d-8999-abdec53de3e7)
 
-3. From the top menu, choose a GPU: **RTX 3090** or **4090** is recommended.
+4. From the top menu, choose a GPU: **RTX 3090** or **4090** is recommended.
    > It may work on lower-end systems, but performance will be reduced.
 
-4. Set storage between **150–200 GB SSD** (NVMe recommended).
-5. From the top-left sort menu, select **Price (inc)**.
+5. Set storage between **150–200 GB SSD** (NVMe recommended).
+6. From the top-left sort menu, select **Price (inc)**.
    > This will list the best price/performance options first.
 
-6. Choose a suitable server from the list and click the **Rent** button.
+7. Choose a suitable server from the list and click the **Rent** button.
+![1](https://github.com/user-attachments/assets/29c2df12-340e-4aa9-adf9-d684398945a8)
 
 ---
 
@@ -80,7 +84,7 @@ To run the Boundless node, you need to rent a suitable server. Follow these step
 1. Go to the "Instances" section on the left.
 2. Click the terminal icon on your server and copy the command that starts with "SSH."
 3. Paste it into your PowerShell or Terminal to connect to your server.
-
+![Adsız tasarım](https://github.com/user-attachments/assets/dc14064a-63f0-43a9-b31e-81a2ca2a4bbd)
 ---
 
 ## Boundless Prover Node Setup Steps:
@@ -105,7 +109,7 @@ apt install -y libssl-dev libleveldb-dev libclang-dev libgbm1
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/UfukNode/Boundless-ZK-Mining/refs/heads/main/gerekli_bagimliliklar.sh)
-```
+![image](https://github.com/user-attachments/assets/688d06e5-4a8b-4a01-87f5-08a3949ef098)
 
 After installation, restart the terminal and continue.
 
@@ -118,7 +122,8 @@ git clone https://github.com/boundless-xyz/boundless
 cd boundless
 git checkout release-0.10
 bash ./scripts/setup.sh
-```
+
+![image](https://github.com/user-attachments/assets/e55f5a37-e7b5-480d-b9d7-961d888f5bcd)
 
 ---
 
@@ -138,8 +143,8 @@ nano .env.base-sepolia
 - For Ethereum Sepolia:
 ```bash
 nano .env.eth-sepolia
-```
 
+![Ekran görüntüsü 2025-06-18 175359](https://github.com/user-attachments/assets/9d406b08-c975-4c8f-9012-721d7e07cdfd)
 Set content like this:
 
 ```bash
@@ -170,7 +175,8 @@ source .env.eth-sepolia
 ```bash
 source ~/.bashrc
 boundless account deposit-stake 5
-```
+
+![image](https://github.com/user-attachments/assets/0863d49a-08f7-4bcf-befa-a1609e390817)
 
 ---
 
@@ -181,6 +187,8 @@ boundless account deposit 0.0001
 ```
 
 To check your stake balance:
+
+![image](https://github.com/user-attachments/assets/1f197201-6c24-42dc-bcb1-193097372fdd)
 
 ```bash
 boundless account stake-balance
@@ -196,13 +204,16 @@ just broker
 
 Wait a moment until setup completes.
 
+![Ekran görüntüsü 2025-06-18 131640](https://github.com/user-attachments/assets/86d08b4a-1672-4521-ad29-70068ee1bf19)
+
 ---
 
 ### 9. Check Logs
 
 ```bash
 docker compose logs -f broker
-```
+
+![Ekran görüntüsü 2025-06-18 133700](https://github.com/user-attachments/assets/c4758f65-b931-4f81-91d0-2701f5233662)
 
 Press CTRL+C to stop viewing logs. The prover node will continue to run in the background.
 
@@ -234,7 +245,7 @@ After setting up your node, visit:
 
 You’ll see detailed stats about your node.
 
----
+![image](https://github.com/user-attachments/assets/b0cf0733-ca7a-4fdd-929c-582e4d957e2b)
 
 ### What to Monitor:
 
